@@ -1,1 +1,3 @@
 This is version 01 of test project.
+
+Hotfix 1 for version 1.
